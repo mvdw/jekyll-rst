@@ -19,6 +19,7 @@ def transform(writer=None, part=None):
     settings = dict({
         'file_insertion_enabled': False,
         'raw_enabled': False,
+        'field_name_limit': 80, # Does NOT work! Why not?
     }, **opts.__dict__)
     
     if len(args) == 1:
