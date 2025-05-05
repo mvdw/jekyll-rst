@@ -1,3 +1,11 @@
+Adaptations by MVDW
+=======================
+
+I adapted this code to make it work for me. I use Jekyll.
+
+- Correct encoding UTF-8.
+- Use the correct python executable (there is only a 'python3' on my OpenSuse system).
+
 Overview
 ========
 
